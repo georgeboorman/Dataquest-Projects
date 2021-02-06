@@ -3,6 +3,42 @@ This repository contains projects completed as part of [Dataquest's](https://www
 
 The course includes a range of programming languages, libraries, tools and techniques which are required for data science activity. Specifically, this includes:
 
+## Contents
+
+### Python Fundamentals
+- [Recommendations for building an App]
+- [Exploring Hacker News Posts]
+
+### Data Analysis and Visualisation
+- [Exploring Ebay Car Sales Data]
+- [Visualising Earnings Based on College Majors]
+- [Visualising the Gender Gap in College Degrees]
+- [Cleaning and Analysing Employee Exit Surveys]
+- [Analysing NYC High School Data]
+- [Star Wars Survey]
+- [Popular Data Science Questions]
+
+### SQL
+- [Analysing CIA Factbook Data](https://github.com/georgeboorman/Dataquest-Projects/blob/master/SQL%20Projects/Analysing%20CIA%20Data%20Using%20SQL.ipynb)
+- [Answering Business Questions using SQL](https://github.com/georgeboorman/Dataquest-Projects/blob/master/SQL%20Projects/Answering%20Business%20Questions%20using%20SQL.ipynb)
+
+### Probability and Statistics
+- [Investigating Fandango Movie Ratings]
+- [Finding the Best Markets to Advertise in]
+- [Building a Mobile App for Lottery Addiction]
+- [Building a Spam Filter with Naive Bayes]
+- [Winning Jeopardy]
+
+### Machine Leearning
+- [Predicting Car Prices]
+- [Predicting House Sale Prices]
+- [Predicting the Stock Market]
+- [Predicting Bike Rentals]
+- [Building a Handwritten Digits Classifier]
+- [Creating a Kaggle Workflow]
+
+Skills, tools and techniques learnt and applied throughout the course included:
+
 ## Python 
 - Variables, conditional statements, for loops, functions and decorators
 - Numpy
