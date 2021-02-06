@@ -29,7 +29,7 @@ The course includes a range of programming languages, libraries, tools and techn
 - [Building a Spam Filter with Naive Bayes](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Probability%20and%20Statistics/Building%20a%20Spam%20Filter%20with%20Naive%20Bayes.ipynb)
 - [Winning Jeopardy](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Probability%20and%20Statistics/Winning%20Jeopardy.ipynb)
 
-### Machine Leearning
+### Machine Learning
 - [Predicting Car Prices]
 - [Predicting House Sale Prices]
 - [Predicting the Stock Market]
