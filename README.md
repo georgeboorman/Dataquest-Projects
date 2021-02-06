@@ -6,8 +6,8 @@ The course includes a range of programming languages, libraries, tools and techn
 ## Contents
 
 ### Python Fundamentals
-- [Recommendations for building an App]
-- [Exploring Hacker News Posts]
+- [Recommendations for building an App](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Python%20Fundamentals/App%20Profile%20Recommendations.ipynb)
+- [Exploring Hacker News Posts](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Python%20Fundamentals/Exploring%20Hacker%20News%20Posts.ipynb)
 
 ### Data Analysis and Visualisation
 - [Exploring Ebay Car Sales Data]
