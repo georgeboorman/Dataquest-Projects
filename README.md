@@ -1,11 +1,10 @@
 # Dataquest-Projects
-This repository contains projects completed as part of [Dataquest's](https://www.dataquest.io/) [Data Scientist](https://www.dataquest.io/path/data-scientist/) course. 
+This repository contains projects completed as part of [Dataquest's](https://www.dataquest.io/) [Data Scientist](https://www.dataquest.io/path/data-scientist/) course. Completion of the course earns a [certificate](https://app.dataquest.io/view_cert/IHUZ6ET047U4F9NVH817/).
 
 The course includes a range of programming languages, libraries, tools and techniques which are required for data science activity. Specifically, this includes:
 
 ## Python 
 - Variables, conditional statements, for loops, functions and decorators
-- Object oriented programming
 - Numpy
 - Pandas
 - Data cleaning and analysis
@@ -34,4 +33,16 @@ The course includes a range of programming languages, libraries, tools and techn
 - Conditional probability and bayes theorem
 
 ## Machine Learning
-- 
+- Calculus
+- Linear algebra
+- Feature engineering
+- Hyperparameter optimisation
+- Cross validation
+- Regression (Linear, Logistic)
+- Decision trees and random forests
+- K-nearest neighbors
+- Deep learning
+
+## Advanced Data Science
+- Git and version control
+- Spark (PySpark and Spark SQL) and Map-Reduce
