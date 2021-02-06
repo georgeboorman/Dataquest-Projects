@@ -10,13 +10,13 @@ The course includes a range of programming languages, libraries, tools and techn
 - [Exploring Hacker News Posts](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Python%20Fundamentals/Exploring%20Hacker%20News%20Posts.ipynb)
 
 ### Data Analysis and Visualisation
-- [Exploring Ebay Car Sales Data]
-- [Visualising Earnings Based on College Majors]
-- [Visualising the Gender Gap in College Degrees]
-- [Cleaning and Analysing Employee Exit Surveys]
-- [Analysing NYC High School Data]
-- [Star Wars Survey]
-- [Popular Data Science Questions]
+- [Exploring Ebay Car Sales Data](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Data%20Analysis%20and%20Visualisation/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)
+- [Visualising Earnings Based on College Majors](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Data%20Analysis%20and%20Visualisation/Visualising%20Earnings%20Based%20on%20College%20Majors%20v2.ipynb)
+- [Visualising the Gender Gap in College Degrees](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Data%20Analysis%20and%20Visualisation/Visualising%20the%20Gender%20Gap%20in%20College%20Degrees.ipynb)
+- [Cleaning and Analysing Employee Exit Surveys](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Data%20Analysis%20and%20Visualisation/Clean%20and%20Analyse%20Employee%20Exit%20Surveys.ipynb)
+- [Analysing NYC High School Data](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Data%20Analysis%20and%20Visualisation/Analysing%20NYC%20High%20School%20Data.ipynb)
+- [Star Wars Survey](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Data%20Analysis%20and%20Visualisation/Star%20Wars%20Survey.ipynb)
+- [Popular Data Science Questions](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Data%20Analysis%20and%20Visualisation/Popular%20Data%20Science%20Questions.ipynb)
 
 ### SQL
 - [Analysing CIA Factbook Data](https://github.com/georgeboorman/Dataquest-Projects/blob/master/SQL%20Projects/Analysing%20CIA%20Data%20Using%20SQL.ipynb)
