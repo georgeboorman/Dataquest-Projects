@@ -1,11 +1,11 @@
 # Dataquest Projects
 This repository contains projects completed as part of [Dataquest's](https://www.dataquest.io/) [Data Scientist](https://www.dataquest.io/path/data-scientist/) course. Completion of the course earns a [certificate](https://app.dataquest.io/view_cert/IHUZ6ET047U4F9NVH817/).
 
-The course includes a range of programming languages, libraries, tools and techniques which are required for data science activity. Specifically, this includes:
+Listed below are projects completed throughout the course, and a summary of the programming languages, libraries, tools and techniques learnt and applied:
 
-## Contents
+## Projects
 
-### Python Fundamentals
+### Python
 - [Recommendations for building an App](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Python%20Fundamentals/App%20Profile%20Recommendations.ipynb)
 - [Exploring Hacker News Posts](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Python%20Fundamentals/Exploring%20Hacker%20News%20Posts.ipynb)
 
@@ -30,22 +30,22 @@ The course includes a range of programming languages, libraries, tools and techn
 - [Winning Jeopardy](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Probability%20and%20Statistics/Winning%20Jeopardy.ipynb)
 
 ### Machine Learning
-- [Predicting Car Prices]
-- [Predicting House Sale Prices]
-- [Predicting the Stock Market]
-- [Predicting Bike Rentals]
-- [Building a Handwritten Digits Classifier]
-- [Creating a Kaggle Workflow]
+- [Predicting Car Prices](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Machine%20Learning/Predicting%20Car%20Prices.ipynb)
+- [Predicting House Sale Prices](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Machine%20Learning/Predicting%20House%20Prices.ipynb)
+- [Predicting the Stock Market](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Machine%20Learning/Predicting%20the%20Stock%20Market.ipynb)
+- [Predicting Bike Rentals](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Machine%20Learning/Predicting%20Bike%20Rentals.ipynb)
+- [Building a Handwritten Digits Classifier](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Machine%20Learning/Building%20a%20Handwritten%20Digits%20Classifier.ipynb)
+- [Creating a Kaggle Workflow](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Machine%20Learning/Creating%20a%20Kaggle%20Workflow.ipynb)
 
-Skills, tools and techniques learnt and applied throughout the course included:
+## Skills
 
-## Python 
+### Python 
 - Variables, conditional statements, for loops, functions and decorators
 - Numpy
 - Pandas
 - Data cleaning and analysis
 - Regular expressions
-- Visualisation through matplotlib.pyplot and seaborn
+- Visualisation through matplotlib and seaborn
 - APIs and web scraping
 
 ## Command Line
