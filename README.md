@@ -1,4 +1,4 @@
-# Dataquest-Projects
+# Dataquest Projects
 This repository contains projects completed as part of [Dataquest's](https://www.dataquest.io/) [Data Scientist](https://www.dataquest.io/path/data-scientist/) course. Completion of the course earns a [certificate](https://app.dataquest.io/view_cert/IHUZ6ET047U4F9NVH817/).
 
 The course includes a range of programming languages, libraries, tools and techniques which are required for data science activity. Specifically, this includes:
@@ -23,11 +23,11 @@ The course includes a range of programming languages, libraries, tools and techn
 - [Answering Business Questions using SQL](https://github.com/georgeboorman/Dataquest-Projects/blob/master/SQL%20Projects/Answering%20Business%20Questions%20using%20SQL.ipynb)
 
 ### Probability and Statistics
-- [Investigating Fandango Movie Ratings]
-- [Finding the Best Markets to Advertise in]
-- [Building a Mobile App for Lottery Addiction]
-- [Building a Spam Filter with Naive Bayes]
-- [Winning Jeopardy]
+- [Investigating Fandango Movie Ratings](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Probability%20and%20Statistics/Investigating%20Fandango%20Movie%20Ratings.ipynb)
+- [Finding the Best Markets to Advertise in](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Probability%20and%20Statistics/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)
+- [Building a Mobile App for Lottery Addiction](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Probability%20and%20Statistics/App%20for%20Lottery%20Addiction.ipynb)
+- [Building a Spam Filter with Naive Bayes](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Probability%20and%20Statistics/Building%20a%20Spam%20Filter%20with%20Naive%20Bayes.ipynb)
+- [Winning Jeopardy](https://github.com/georgeboorman/Dataquest-Projects/blob/master/Probability%20and%20Statistics/Winning%20Jeopardy.ipynb)
 
 ### Machine Leearning
 - [Predicting Car Prices]
